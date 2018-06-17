@@ -1,0 +1,13 @@
+{
+"companyName": "Al-Ansi&Gorskaya&Morozov",
+"productName": "Running RedHead",
+"dataUrl": "webglrunner.data.unityweb",
+"asmCodeUrl": "webglrunner.asm.code.unityweb",
+"asmMemoryUrl": "webglrunner.asm.memory.unityweb",
+"asmFrameworkUrl": "webglrunner.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
